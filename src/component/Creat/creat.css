@@ -1,0 +1,49 @@
+.name{
+
+    width: 50px;
+    height: 50px;
+}
+input{
+   background-color: lightgray;
+   height: 30px;
+
+}
+
+.first{
+    display: flex;
+    margin-left: 130px;
+   width: 270px;
+   border: none;
+   border-radius: 5px;
+}
+.last{
+    display: flex;
+    margin-left: 500px;
+position: relative;
+bottom: 52px;
+width: 270px;
+border: none;
+border-radius: 5px;
+
+}
+.pas{
+    display: flex;
+    margin-left: 130px;
+    width: 270px;
+    border: none;
+    border-radius: 5px;
+}
+.con{
+    display: flex;
+    margin-left:100px;
+    width: 270px;
+    border: none;
+    border-radius: 5px;
+}
+.ch{
+    width: 430px;
+}
+.check{
+    position: relative;
+    top:10px ;
+}

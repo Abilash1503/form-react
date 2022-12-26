@@ -1,0 +1,95 @@
+body{
+    background-color: #dc392d;
+}
+.twi{
+    background-color: #1da1f2;
+}
+.github{
+    background-color: #333333;
+}
+.fb{
+    background-color: #5a73a8;
+}
+.google{
+    background-color: #ea4335;
+}
+
+.container{
+    background-color: white;
+    height: 90%;
+    width: 70%;
+    align-items: center;
+    padding: 100px;
+    margin: 100px;
+    border-radius: 5px;
+}
+.check{
+    margin-left: 100px;
+}
+.logo{
+    background-image: url(https://avatars2.githubusercontent.com/u/58701512?s=280&v=4);
+}
+.content{
+    color: gray;
+    align-items: center;
+}
+button{
+    margin-left: 20px;
+    height: 50px;
+    width: 160px;
+    border-radius: 5px;
+    border: none;
+    color: white;
+}
+hr{
+    height: 100%;
+    
+}
+
+.mail{
+    color: gray;
+   
+    margin-right: 650px;
+     font-size: 15px;
+ }
+ .pass{
+    color: gray;
+   
+    margin-right: 630px;
+     font-size: 15px;
+ }
+.input{
+    background-color:lightgray;
+ width: 70%;
+ border: none;
+ border-radius: 0.25em;
+ text-align: center;
+ padding: 1em;
+ font-size: 0.75em
+ 
+ 
+    
+}
+
+td{
+    width:300px;
+}
+.link{
+   display: flex;
+   margin-left: 125px;
+}
+.login-bnt{
+    
+    height: 3em;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 250px;
+   
+    
+    
+}
+
+p{
+    color: gray;
+}
